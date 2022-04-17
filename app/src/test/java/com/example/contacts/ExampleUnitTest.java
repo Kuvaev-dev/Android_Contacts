@@ -1,4 +1,4 @@
-package com.example.authscreen;
+package com.example.contacts;
 
 import org.junit.Test;
 
